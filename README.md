@@ -1,4 +1,4 @@
-![圖片名稱](連結 "游標顯示")
+![image](https://github.com/Rick-Lai/ytdl-gui/blob/main/display.png)
 
 Feature
 ===
